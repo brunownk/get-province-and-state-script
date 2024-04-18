@@ -1,0 +1,266 @@
+[
+  {
+  "id": 1,
+  "latitude": "-25.312630420950885",
+  "longitude": "-57.58580446243286",
+  "name": "SUNSET EUSEBIO AYALA",
+  "province": "Asunción",
+  "state": "Asunción"
+  },
+  {
+  "id": 2,
+  "latitude": "-26.547790103032828",
+  "longitude": "-55.25663224792481",
+  "name": "DESVIO MARIA AUXILIADORA",
+  "province": "Tomás Romero Pereira",
+  "state": "Itapúa"
+  },
+  {
+  "id": 3,
+  "latitude": "-25.324682555407076",
+  "longitude": "-57.55123063507081",
+  "name": "SUNSET FERNANDO DE LA MORA",
+  "province": "Fernando de la Mora",
+  "state": "Central"
+  },
+  {
+  "id": 4,
+  "latitude": "-25.473222116613353",
+  "longitude": "-56.44737576171875",
+  "name": "DESVIO OVIEDO",
+  "province": "Coronel Oviedo",
+  "state": "Caaguazú Department"
+  },
+  {
+  "id": 6,
+  "latitude": "-26.92672606909783",
+  "longitude": "-55.235088745117196",
+  "name": "CAPITAN MEZA KM",
+  "province": "Capitán Meza",
+  "state": "Itapúa"
+  },
+  {
+  "id": 8,
+  "latitude": "-25.485043089849714",
+  "longitude": "-57.48909918403626",
+  "name": "SUNSET SUCURSAL YPANE",
+  "province": "Ypané",
+  "state": "Central Department"
+  },
+  {
+  "id": 9,
+  "latitude": "-25.627735323866414",
+  "longitude": "-57.1630283985138",
+  "name": "DESVIO PARAGUARI",
+  "province": "Paraguarí",
+  "state": "Paraguarí"
+  },
+  {
+  "id": 12,
+  "latitude": "-25.487839570739226",
+  "longitude": "-54.88247481918336",
+  "name": "SUNSET KM28 DEPOSITO",
+  "province": "Minga Guazú",
+  "state": "Alto Paraná Department"
+  },
+  {
+  "id": 13,
+  "latitude": "-25.722037556021903",
+  "longitude": "-56.40976754760743",
+  "name": "DESVIO CRUCE VILLARICA",
+  "province": "Mbocayaty",
+  "state": "Guairá"
+  },
+  {
+  "id": 14,
+  "latitude": "-25.825608867464695",
+  "longitude": "-55.1145824584961",
+  "name": "SANTA RITA",
+  "province": "Santa Rita",
+  "state": "Alto Paraná"
+  },
+  {
+  "id": 15,
+  "latitude": "-23.272600284763183",
+  "longitude": "-55.53965894317628",
+  "name": "CAPITAN BADO",
+  "province": "Coronel Sapucaia",
+  "state": "Mato Grosso do Sul"
+  },
+  {
+  "id": 17,
+  "latitude": "-26.75640521475736",
+  "longitude": "-55.13827172851563",
+  "name": "NATALIO",
+  "province": "Natalio",
+  "state": "Itapúa Department"
+  },
+  {
+  "id": 20,
+  "latitude": "-27.33920408458259",
+  "longitude": "-55.8561596069336",
+  "name": "ITAPUA",
+  "province": "Encarnación",
+  "state": "Itapúa"
+  },
+  {
+  "id": 21,
+  "latitude": "-24.071766570361557",
+  "longitude": "-54.31185094451905",
+  "name": "SALTOS DEL GUAIRA",
+  "province": "Salto del Guairá",
+  "state": "Canindeyú Department"
+  },
+  {
+  "id": 22,
+  "latitude": "-23.979104013541715",
+  "longitude": "-55.034073272705086",
+  "name": "PINDOTY PORA",
+  "province": "Sete Quedas",
+  "state": "Mato Grosso do Sul"
+  },
+  {
+  "id": 23,
+  "latitude": "-22.572871052484977",
+  "longitude": "-55.73359338378907",
+  "name": "PEDRO JUAN CABALLERO",
+  "province": "Pedro Juan Caballero",
+  "state": "Amambay"
+  },
+  {
+  "id": 26,
+  "latitude": "-25.22919492888531",
+  "longitude": "-57.56625024414063",
+  "name": "PUERTO CAACUPEMI",
+  "province": "Asunción",
+  "state": "Asunción"
+  },
+  {
+  "id": 41,
+  "latitude": "-26.676670976129074",
+  "longitude": "-55.06411401367188",
+  "name": "YATYTAY",
+  "province": "Yatytay",
+  "state": "Itapúa"
+  },
+  {
+  "id": 42,
+  "latitude": "-25.613451741927854",
+  "longitude": "-57.606891075134286",
+  "name": "PUERTO TERPORT",
+  "province": "Villeta",
+  "state": "Central"
+  },
+  {
+  "id": 49,
+  "latitude": "-25.224380949164217",
+  "longitude": "-57.56399718856812",
+  "name": "PUERTO FENIX",
+  "province": "Mariano Roque Alonso",
+  "state": "Central Department"
+  },
+  {
+  "id": 53,
+  "latitude": "-25.051417520497363",
+  "longitude": "-57.096777835845955",
+  "name": "DESVIO ARROYO Y ESTEROS",
+  "province": "Arroyos Y Esteros",
+  "state": "Cordillera Department"
+  },
+  {
+  "id": 54,
+  "latitude": "-25.50878568527394",
+  "longitude": "-54.61602417564393",
+  "name": "SUNSET CASA CENTRAL KM1",
+  "province": "Ciudad del Este",
+  "state": "Alto Paraná Department"
+  },
+  {
+  "id": 55,
+  "latitude": "-27.209819452237305",
+  "longitude": "-56.12429467773438",
+  "name": "DESVIO CARMEN DEL PARANÁ",
+  "province": "Carmen del Paraná",
+  "state": "Itapúa"
+  },
+  {
+  "id": 56,
+  "latitude": "-27.185123154848245",
+  "longitude": "-55.78125087356568",
+  "name": "DESVIO CAPITÁN MIRANDA",
+  "province": "Capitán Miranda",
+  "state": "Itapúa"
+  },
+  {
+  "id": 57,
+  "latitude": "-27.10219601123671",
+  "longitude": "-56.012113967895516",
+  "name": "DESVIO FRAM",
+  "province": "Fram",
+  "state": "Itapúa Department"
+  },
+  {
+  "id": 58,
+  "latitude": "-25.501978356569925",
+  "longitude": "-54.71364585494996",
+  "name": "SUNSET KM11 ZONA FRANCA",
+  "province": "Ciudad del Este",
+  "state": "Alto Paraná Department"
+  },
+  {
+  "id": 59,
+  "latitude": "-25.7173205924097",
+  "longitude": "-56.41517488098145",
+  "name": "DESVIO MBOCAYATY",
+  "province": "Mbocayaty",
+  "state": "Guairá Department"
+  },
+  {
+  "id": 60,
+  "latitude": "-25.499538082208073",
+  "longitude": "-54.65849963760377",
+  "name": "NASSER CUBIERTAS KM6",
+  "province": "Ciudad del Este",
+  "state": "Alto Paraná"
+  },
+  {
+  "id": 61,
+  "latitude": "-26.370097118776645",
+  "longitude": "-55.23852197265626",
+  "name": "NARANJITO",
+  "province": "San Rafael del Paraná",
+  "state": "Itapúa"
+  },
+  {
+  "id": 62,
+  "latitude": "-25.391574207096564",
+  "longitude": "-54.63843671417237",
+  "name": "NASSER CUBIERTAS HERNANDARIAS",
+  "province": "Hernandarias",
+  "state": "Alto Paraná"
+  },
+  {
+  "id": 63,
+  "latitude": "-25.548237347977018",
+  "longitude": "-57.55357948875428",
+  "name": "PUERTO SEGURO",
+  "province": "Villeta",
+  "state": "Central"
+  },
+  {
+  "id": 64,
+  "latitude": "-24.25348674679935",
+  "longitude": "-54.77010099029542",
+  "name": "KATUETÉ",
+  "province": "Katueté",
+  "state": "Canindeyú Department"
+  },
+  {
+  "id": 66,
+  "latitude": "-26.87253302846543",
+  "longitude": "-58.32782594299317",
+  "name": "PUERTO CAACUPEMI PILAR",
+  "province": "Pilar",
+  "state": "Ñeembucú Department"
+  }
+]
